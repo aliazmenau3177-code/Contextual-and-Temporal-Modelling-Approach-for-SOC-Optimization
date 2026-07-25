@@ -45,7 +45,7 @@ Download the zip, extract the CSV, and point the script at it (see below). The n
 
 ## What the code does
 
-The single script, `script4_attribution.py`, runs the complete experiment end to end. It is deterministic given the fixed random seed, and it prints its own results and writes its own figures — nothing else to run.
+The single script, `Contextual_temporal_SOC.py`, runs the complete experiment end to end. It is deterministic given the fixed random seed, and it prints its own results and writes its own figures — nothing else to run.
 
 In order, it:
 
